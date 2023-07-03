@@ -1,0 +1,15 @@
+body {
+    width: 1500px;
+    border: 10px double black;
+    padding: 0%;
+    text-align: center;
+}
+hr{
+   border-width:  5px;
+   width: 700px;
+}
+.tb1:hover{
+    color: red;
+}
+
+
